@@ -5,9 +5,10 @@
 <p align="center">
   <a href="mailto:mail.ayushraj247@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/Ayush2470/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
-  <a href="https://www.geeksforgeeks.org/profile/rishiscv93h"><img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://github.com/Ayush-0247"><img src="https://img.shields.io/badge/GitHub-Ayush--0247-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Ayush2470/"><img src="https://img.shields.io/badge/LeetCode-Ayush2470-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/profile/rishiscv93h"><img src="https://img.shields.io/badge/GeeksforGeeks-rishiscv93h-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://codolio.com/profile/LCabMtWx"><img src="https://img.shields.io/badge/Codolio-LCabMtWx-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Founder+%26+CTO+%40+CipherVest+Capital;Building+Ephemeral+%26+Real-Time+Systems;200%2B+DSA+Problems+Solved+%F0%9F%A7%A0" alt="Typing SVG" />
@@ -27,7 +28,7 @@ I'm a **Full Stack Developer** and **Founder & CTO** of **CipherVest Capital** �
 - 🌱 Exploring: Advanced System Design, Cryptographic Security, Web3 & AI Integration
 - 📬 Reach me at: **mail.ayushraj247@gmail.com** | **+91 9939565466**
 - 🏆 **Second Runner-Up** — KIET Code Hackathon | **Top 8** — IdeateX
-- 🧩 Coding Profiles: [LeetCode (Ayush2470)](https://leetcode.com/u/Ayush2470/) | [GeeksforGeeks (rishiscv93h)](https://www.geeksforgeeks.org/profile/rishiscv93h)
+- 🧩 Coding Portfolios: [LeetCode](https://leetcode.com/u/Ayush2470/) | [GeeksforGeeks](https://www.geeksforgeeks.org/profile/rishiscv93h) | [Codolio Profile](https://codolio.com/profile/LCabMtWx)
 
 ---
 
@@ -156,65 +157,112 @@ I'm a **Full Stack Developer** and **Founder & CTO** of **CipherVest Capital** �
 
 ---
 
-## 🧩 Competitive Programming & Problem Solving
+## 🧩 Competitive Programming & Problem Solving Graphs
 
 <div align="center">
 
-| Platform | Profile Link | Solved Count |
-|---|---|---|
-| 🟨 **LeetCode** | [Ayush2470](https://leetcode.com/u/Ayush2470/) | 200+ Problems |
-| 🟩 **GeeksforGeeks** | [rishiscv93h](https://www.geeksforgeeks.org/profile/rishiscv93h) | Active Problem Solver |
+### 🟡 LeetCode Graphs & Heatmap
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ayush2470/">
+    <img src="https://leetcard.jacoblin.cool/Ayush2470?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Heatmap Graph" width="92%"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Ayush2470/">
+    <img src="https://leetcard.jacoblin.cool/Ayush2470?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Activity Line Graph" width="92%"/>
+  </a>
+</p>
 
 <br/>
 
-<a href="https://leetcode.com/u/Ayush2470/">
-  <img src="https://leetcode-stats-api.herokuapp.com/Ayush2470" alt="Ayush Raj LeetCode Stats" height="170"/>
-</a>
+### 🟩 GeeksforGeeks & 🟣 Codolio Profiles
+
+<p align="center">
+  <a href="https://www.geeksforgeeks.org/profile/rishiscv93h">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-rishiscv93h-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://codolio.com/profile/LCabMtWx">
+    <img src="https://img.shields.io/badge/Codolio-Profile_LCabMtWx-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white" height="45"/>
+  </a>
+</p>
+
+| Platform | Handle | Solved Status | Profile Link |
+|:---|:---|:---|:---|
+| 🟨 **LeetCode** | `Ayush2470` | 200+ Solved (Streak Active) | [View Profile](https://leetcode.com/u/Ayush2470/) |
+| 🟩 **GeeksforGeeks** | `rishiscv93h` | Active DSA Solver | [View Profile](https://www.geeksforgeeks.org/profile/rishiscv93h) |
+| 🟣 **Codolio** | `LCabMtWx` | Verified Profile & Tracking | [View Profile](https://codolio.com/profile/LCabMtWx) |
 
 </div>
 
 ---
 
-## 🏆 Honors & Achievements
-
-| | Achievement | Date |
-|---|---|---|
-| 🥉 | **Second Runner-Up** — KIET Code Hackathon | May 2026 |
-| 🏅 | **Top 8** — IdeateX *(Led a team to Top 8 position)* | May 2026 |
-| 💻 | **200+ DSA Problems** solved in C++ on LeetCode & GFG | Ongoing |
-
----
-
-## 🐍 Contribution Snake
+## 🐍 GitHub Contribution Snake Animation
 
 <div align="center">
 
-![Contribution Snake](https://raw.githubusercontent.com/Ayush2470/Ayush2470/output/github-contribution-grid-snake-dark.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ayush-0247/Ayush-0247/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ayush-0247/Ayush-0247/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ayush-0247/Ayush-0247/output/github-contribution-grid-snake.svg">
+</picture>
 
 </div>
 
 ---
 
-## 📈 GitHub Graph & Stats
+## 📈 GitHub Activity, Language & Commit Graphs
 
 <div align="center">
 
-### 📊 Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayush2470&theme=tokyo-night&hide_border=true&area=true" width="90%"/>
-
-<br/><br/>
-
-### 🔥 Streak & Overall Stats
+### 📊 GitHub Contribution Calendar Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush2470&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush2470&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://ghchart.rshah.org/00D9FF/Ayush-0247" alt="GitHub Contribution Calendar" width="95%"/>
+</p>
+
+<br/>
+
+### 🔥 GitHub Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-0247&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
+
+<br/>
+
+### 📊 Overall Profile Summary & Details
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0247&theme=tokyonight" width="95%"/>
+</p>
+
+<br/>
+
+### 🥧 Language Breakdown & Commit Breakdown Graphs
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush-0247&theme=tokyonight" width="47%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush-0247&theme=tokyonight" width="47%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush2470&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-0247&theme=tokyonight" width="47%"/>
+  &nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush-0247&theme=tokyonight" width="47%"/>
 </p>
 
 </div>
+
+---
+
+<div align="center">
+
+### 💡 *"Build fast. Ship smart. Iterate always."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
+</div>
+
 
 ---
 
