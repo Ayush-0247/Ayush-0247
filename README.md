@@ -11,7 +11,7 @@
   <a href="https://codolio.com/profile/LCabMtWx"><img src="https://img.shields.io/badge/Codolio-LCabMtWx-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white"/></a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Founder+%26+CTO+%40+CipherVest+Capital;Building+Ephemeral+%26+Real-Time+Systems;200%2B+DSA+Problems+Solved+%F0%9F%A7%A0" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Founder+%26+CTO+%40+CipherVest+Capital;Building+Ephemeral+%26+Real-Time+Systems;340%2B+DSA+Problems+Solved+%F0%9F%A7%A0" alt="Typing SVG" />
 
 </div>
 
@@ -157,11 +157,11 @@ I'm a **Full Stack Developer** and **Founder & CTO** of **CipherVest Capital** �
 
 ---
 
-## 🧩 Competitive Programming & Problem Solving Graphs
+## 🧩 Competitive Programming & Problem Solving
 
 <div align="center">
 
-### 🟡 LeetCode Graphs & Heatmap
+### 🟡 LeetCode Heatmap & Problem Solving Stats
 
 <p align="center">
   <a href="https://leetcode.com/u/Ayush2470/">
@@ -169,31 +169,67 @@ I'm a **Full Stack Developer** and **Founder & CTO** of **CipherVest Capital** �
   </a>
 </p>
 
+---
+
+### 🟣 Codolio All-in-One Coding Portfolio & Analytics
+
 <p align="center">
-  <a href="https://leetcode.com/u/Ayush2470/">
-    <img src="https://leetcard.jacoblin.cool/Ayush2470?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Activity Line Graph" width="92%"/>
+  <a href="https://codolio.com/profile/LCabMtWx">
+    <img src="https://codolio.com/api/og/LCabMtWx" alt="Codolio Profile Graph & Stats" width="92%"/>
   </a>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Solved-347_Questions-6C5CE7?style=for-the-badge&logo=codolio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Active_Days-99_Days-00D2D3?style=for-the-badge&logo=clock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Max_Streak-30_Days-FF6B6B?style=for-the-badge&logo=streak&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Global_Rank-%2317%2C841-FFA502?style=for-the-badge&logo=trophy&logoColor=white"/>
+</p>
+
+#### 📊 Solved Breakdown by Difficulty & Platform
+
+| Category | Total Count | Sub-Breakdown |
+|:---|:---:|:---|
+| 🟢 **Easy** | **156** | High consistency across fundamental patterns |
+| 🟡 **Medium** | **126** | Core data structures & algorithm implementations |
+| 🔴 **Hard** | **29** | Advanced dynamic programming, graphs & trees |
+| 📘 **Fundamentals** | **36** | GeeksforGeeks Core Basics |
+| 🏆 **Total Submissions** | **746** | 99 Active Days with verified 30-Day Streak |
+| 🎖️ **Codolio Awards** | **1 Badge** | **50 DAYS Active Badge** |
 
 <br/>
 
-### 🟩 GeeksforGeeks & 🟣 Codolio Profiles
+#### 🧠 DSA Topic Mastery Distribution
+
+```
+  Arrays          ████████████████████████  113 Solved
+  Linked Lists    ███████████████████       91 Solved
+  Trees           ███████████████           70 Solved
+  Strings         ██████████                44 Solved
+  HashMap & Set   █████████                 42 Solved
+  Algorithms      █████████                 41 Solved
+  Binary Tree     ████████                  35 Solved
+  Two Pointers    ███████                   33 Solved
+  DFS             ██████                    29 Solved
+```
+
+<br/>
+
+### 🟩 Coding Profiles & Handles
 
 <p align="center">
+  <a href="https://leetcode.com/u/Ayush2470/">
+    <img src="https://img.shields.io/badge/LeetCode-Ayush2470-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="40"/>
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.geeksforgeeks.org/profile/rishiscv93h">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-rishiscv93h-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/GeeksforGeeks-rishiscv93h-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="40"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://codolio.com/profile/LCabMtWx">
-    <img src="https://img.shields.io/badge/Codolio-Profile_LCabMtWx-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white" height="45"/>
+    <img src="https://img.shields.io/badge/Codolio-Profile_LCabMtWx-6C5CE7?style=for-the-badge&logo=codeforces&logoColor=white" height="40"/>
   </a>
 </p>
-
-| Platform | Handle | Solved Status | Profile Link |
-|:---|:---|:---|:---|
-| 🟨 **LeetCode** | `Ayush2470` | 200+ Solved (Streak Active) | [View Profile](https://leetcode.com/u/Ayush2470/) |
-| 🟩 **GeeksforGeeks** | `rishiscv93h` | Active DSA Solver | [View Profile](https://www.geeksforgeeks.org/profile/rishiscv93h) |
-| 🟣 **Codolio** | `LCabMtWx` | Verified Profile & Tracking | [View Profile](https://codolio.com/profile/LCabMtWx) |
 
 </div>
 
@@ -231,7 +267,10 @@ I'm a **Full Stack Developer** and **Founder & CTO** of **CipherVest Capital** �
 
 <br/>
 
-
+### 📊 Overall Profile Summary & Details
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0247&theme=tokyonight" width="95%"/>
+</p>
 
 <br/>
 
@@ -249,17 +288,6 @@ I'm a **Full Stack Developer** and **Founder & CTO** of **CipherVest Capital** �
 </p>
 
 </div>
-
----
-
-<div align="center">
-
-### 💡 *"Build fast. Ship smart. Iterate always."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
-
 
 ---
 
