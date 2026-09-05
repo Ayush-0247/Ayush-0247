@@ -231,10 +231,7 @@ I'm a **Full Stack Developer** and **Founder & CTO** of **CipherVest Capital** â
 
 <br/>
 
-### ðŸ“Š Overall Profile Summary & Details
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0247&theme=tokyonight" width="95%"/>
-</p>
+
 
 <br/>
 
