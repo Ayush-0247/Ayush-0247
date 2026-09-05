@@ -267,25 +267,16 @@ I'm a **Full Stack Developer** and **Founder & CTO** of **CipherVest Capital** �
 
 <br/>
 
-### 📊 Overall Profile Summary & Details
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayush-0247&theme=tokyonight" width="95%"/>
-</p>
 
-<br/>
 
 ### 🥧 Language Breakdown & Commit Breakdown Graphs
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ayush-0247&theme=tokyonight" width="47%"/>
   &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ayush-0247&theme=tokyonight" width="47%"/>
+
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ayush-0247&theme=tokyonight" width="47%"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ayush-0247&theme=tokyonight" width="47%"/>
-</p>
+
 
 </div>
 
