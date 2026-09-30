@@ -26,8 +26,7 @@ I'm a **Full Stack Developer** and **Founder & CTO** of **CipherVest Capital** �
 - 🎓 **B.Tech ECE** @ KIET Group of Institutions, Ghaziabad *(GPA: 8.29/10)*
 - 💼 Currently: **Founder & CTO** @ [CipherVest Capital](#) | Previously @ **Flinque** & **Lifelink**
 - 🌱 Exploring: Advanced System Design, Cryptographic Security, Web3 & AI Integration
-- 📬 Reach me at: **mail.ayushraj247@gmail.com** | **+91 9939565466**
-- 🏆 **Second Runner-Up** — KIET Code Hackathon | **Top 8** — IdeateX
+- 📬 Reach me at: **mail.ayushraj247@gmail.com** 
 - 🧩 Coding Portfolios: [LeetCode](https://leetcode.com/u/Ayush2470/) | [GeeksforGeeks](https://www.geeksforgeeks.org/profile/rishiscv93h) | [Codolio Profile](https://codolio.com/profile/LCabMtWx)
 
 ---
